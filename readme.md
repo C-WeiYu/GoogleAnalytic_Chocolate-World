@@ -1,1 +1,2 @@
-在這裡會放我自己的網頁
+[點我前往網頁](https://c-weiyu.github.io/GoogleAnalytic_Chocolate-World/) </br>
+請改編碼Big5
